@@ -13,28 +13,29 @@ body {
 }
 
 .content {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    top: 10;
-    background: rgba(0, 0, 0, 0.5);
-    color: white;
-    width: 100%;
-    padding: 20px;
-    font-size: 110%;
-    font-family: Verdana;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  top: 10;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  width: 100%;
+  padding: 40px;
+  font-size: 110%;
+  font-family: Verdana;
 }
 
 a {
-    color: white;
-    text-decoration: none;
-    font-family: Verdana;
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+  font-family: Verdana;
 }
 
 a:hover {
-     color: white;
-     text-decoration: none;
-     cursor: pointer;
-     font-family: Verdana;
+  color: #0033cc;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: Verdana;
 }
