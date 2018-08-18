@@ -1,5 +1,5 @@
 body {
-  background:url(hackathon.jpg);
+  background: url(phillip.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -32,8 +32,7 @@ a {
     font-family: Verdana;
 }
 
-a:hover
-{
+a:hover {
      color: white;
      text-decoration: none;
      cursor: pointer;
