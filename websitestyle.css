@@ -1,4 +1,4 @@
-html {
+body {
   background:url(hackathon.jpg);
   -webkit-background-size:cover;
   -moz-background-size:cover;
@@ -9,13 +9,35 @@ html {
   background-attachment:fixed;
 }
 
-.container .content {
-    position: absolute;
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    position: fixed;
     bottom: 0;
+    right: 0;
+    left: 0;
+    top: 10;
     background: rgba(0, 0, 0, 0.5);
     color: white;
     width: 100%;
     padding: 20px;
-    font-size: 150%;
+    font-size: 110%;
     font-family: Verdana;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana;
+}
+
+a:hover
+{
+     color: white;
+     text-decoration: none;
+     cursor: pointer;
+     font-family: Verdana;
 }
