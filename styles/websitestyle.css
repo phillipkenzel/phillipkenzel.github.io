@@ -21,11 +21,11 @@ body {
   top: 10;
   background: rgba(0, 0, 0, 0.65);
   color: white;
-  width: auto;
-  padding-top: 10%;
-  padding-right: 10%;
-  padding-bottom: 10%;
-  padding-left: 10%;
+  width: 100%;
+  padding-top: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
   font-size: 110%;
   font-family: Verdana;
   line-height: 1.3;
